@@ -1,0 +1,7 @@
+[user@office SampleTheme]$ git submodule add git@mygithost:billboard lib/billboard
+Initialized empty Git repository in ~/git_dev/SampleTheme/lib/billboard/.git/
+remote: Counting objects: 1006, done.
+remote: Compressing objects: 100% (978/978), done.
+remote: Total 1006 (delta 631), reused 0 (delta 0)
+Receiving objects: 100% (1006/1006), 408.22 KiB, done.
+Resolving deltas: 100% (631/631), done.
