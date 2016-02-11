@@ -1,0 +1,28 @@
+0. GIF : 256 COLORS
+    BMP : 2^32 COLORS MAXIMUM
+    JPEG :2^24 COLORS 
+    PNG :2^48 COLORS
+1. GIF
+2. LOSSLESS IS TO MAKE THINGS SMALLER BUT WITHOUT LOSING ANY INFORMATIONS, SO WE CAN GET BACK TO THE ORIGINAL FORM ;
+    UNLIKE THE LOSSY COMPRESSION WITCH REMOVE SOME (UNUSUAL INFORMATIONS FROM THE DATA ) BUT WE CAN'T GET TO THE ORIGINAL FILE. 
+3.  JPEG
+4.  the system modifies the filename’s first character in the file’s directory entry and moves all of the file’s FAT clusters to the hard drive’s list of free clusters
+5.  to overwrite that data with other data so that the original data cannot be recovered
+6.  defines a set of integral type aliases with specific width requirements, along with macros specifying their limits 
+    and macro functions to create values of these types
+7.  create unsigned integers 8,32 or 13 bits
+8.  byte : 8bits
+    DWORD :32 BITS 
+    LONG : 32BITS
+    WORD : 16 BITS
+9.  'B' then 'M'
+10. bfsize : the size of all the file
+    bisize : the size of the structure
+11. the bitmap is a top-down DIB and its origin is the upper-left corner
+12. biBitCount
+13. if thee file was no created , so the pointer will point to nothing
+14. because we always read one object of the sizeof either BITMAPINFOHEADER or BITMAPFILEHEADER
+15. 0
+16. move to a specific location in a file
+17. seek from the current location
+18.milo banana dun it

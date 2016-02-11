@@ -1,0 +1,11 @@
+0. an english word that refers to an issue an was included in OXFORD dictionnary
+1.  returns resource usage measures for the first argument
+2.  16
+3.  to use them directly without making a copy witch cost memory
+4.  it goes into each line , read the word character  by character and check is its spelled correctly and print it if it's misspelled
+5.  we might fscanf a word that contains special non-alphabetical characters , so we'll  need to check each character
+6.  to make sure that i will not change their value at the return of the function since they're passed by reference
+7.  linked list and hash table
+8.  0
+9. 0
+10. no
